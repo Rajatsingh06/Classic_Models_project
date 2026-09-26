@@ -1,0 +1,11 @@
+officeCode,city,phone,addressLine1,addressLine2,state,country,postalCode,territory
+1,San Francisco,+1 415 555 0101,100 Market Street,Suite 300,CA,USA,94080,NA
+2,Boston,+1 617 555 0102,1550 Court Street,Suite 102,MA,USA,02107,NA
+3,New York,+1 212 555 0103,523 East 53rd Street,Apt. 5A,NY,USA,10022,NA
+4,Paris,+33 1 45 55 01 04,43 Rue de la Paix,,,France,75002,EMEA
+5,Tokyo,+81 3 5555 0105,4-1 Kioicho,Chiyoda-Ku,Tokyo,Japan,102-8578,Japan
+6,Sydney,+61 2 5555 0106,5-11 Wentworth Avenue,Floor #2,NSW,Australia,2010,APAC
+7,London,+44 20 5555 0107,25 Old Broad Street,Level 7,,UK,EC2N 1HN,EMEA
+8,Singapore,+65 5555 0108,18 Robinson Road,Level 12,,Singapore,048547,APAC
+9,Toronto,+1 416 555 0109,200 Bay Street,Suite 1500,ON,Canada,M5J 2J2,NA
+10,Berlin,+49 30 5555 0110,Friedrichstrasse 68,,,Germany,10117,EMEA

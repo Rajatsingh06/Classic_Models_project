@@ -1,0 +1,48 @@
+employeeNumber,lastName,firstName,extension,email,officeCode,reportsTo,jobTitle
+1001,Weber,Aisha,x9952,aweber@classicmodelcars.com,1,,President
+1002,Wright,Sven,x3379,swright@classicmodelcars.com,1,1001,VP Sales
+1003,Silva,Rahul,x1936,rsilva@classicmodelcars.com,1,1001,VP Marketing
+1004,Kim,Marta,x7024,mkim@classicmodelcars.com,1,1002,Sales Manager (NA)
+1005,Walker,Ananya,x8257,awalker@classicmodelcars.com,4,1002,Sales Manager (EMEA)
+1006,Sato,Marcus,x6457,msato@classicmodelcars.com,6,1002,Sales Manager (APAC)
+1007,Nielsen,Kenji,x9855,knielsen@classicmodelcars.com,5,1002,Sales Manager (Japan)
+1008,Zhang,Isabella,x1955,izhang@classicmodelcars.com,1,1004,Sales Rep
+1009,Hoffmann,Jacques,x5353,jhoffmann@classicmodelcars.com,2,1004,Sales Rep
+1010,Costa,Amelie,x7054,acosta@classicmodelcars.com,3,1004,Sales Rep
+1011,Perez,Sanjay,x6317,sperez@classicmodelcars.com,9,1004,Sales Rep
+1012,Johnson,Ben,x8598,bjohnson@classicmodelcars.com,1,1004,Sales Rep
+1013,Roberts,Hans,x9091,hroberts@classicmodelcars.com,2,1004,Sales Rep
+1014,Novak,Michael,x8090,mnovak@classicmodelcars.com,3,1004,Sales Rep
+1015,Kim,Mei,x1634,mkim@classicmodelcars.com,9,1004,Sales Rep
+1016,Green,Rahul,x9998,rgreen@classicmodelcars.com,1,1004,Sales Rep
+1017,Walker,Luca,x7755,lwalker@classicmodelcars.com,2,1004,Sales Rep
+1018,Roberts,Chloe,x5480,croberts@classicmodelcars.com,3,1004,Sales Rep
+1019,Olsen,Fatima,x9458,folsen@classicmodelcars.com,9,1004,Sales Rep
+1020,Nakamura,Rosa,x9316,rnakamura@classicmodelcars.com,1,1004,Sales Rep
+1021,Evans,Ingrid,x1368,ievans@classicmodelcars.com,2,1004,Sales Rep
+1022,Ito,Noah,x5779,nito@classicmodelcars.com,4,1005,Sales Rep
+1023,Dubois,Mark,x3088,mdubois@classicmodelcars.com,7,1005,Sales Rep
+1024,Fischer,Matthew,x1399,mfischer@classicmodelcars.com,10,1005,Sales Rep
+1025,Kumar,Aisha,x7684,akumar@classicmodelcars.com,4,1005,Sales Rep
+1026,Miller,Francois,x6730,fmiller@classicmodelcars.com,7,1005,Sales Rep
+1027,Reyes,Rosa,x4583,rreyes@classicmodelcars.com,10,1005,Sales Rep
+1028,Brown,Leila,x9692,lbrown@classicmodelcars.com,4,1005,Sales Rep
+1029,Miller,Jin,x1336,jmiller@classicmodelcars.com,7,1005,Sales Rep
+1030,Taylor,Carlos,x5065,ctaylor@classicmodelcars.com,10,1005,Sales Rep
+1031,Lambert,Noah,x7546,nlambert@classicmodelcars.com,4,1005,Sales Rep
+1032,Roberts,Leila,x1001,lroberts@classicmodelcars.com,7,1005,Sales Rep
+1033,Klein,Elena,x1357,eklein@classicmodelcars.com,10,1005,Sales Rep
+1034,Wilson,Camille,x5770,cwilson@classicmodelcars.com,4,1005,Sales Rep
+1035,Hoffmann,Sofia,x2815,shoffmann@classicmodelcars.com,7,1005,Sales Rep
+1036,Iyer,Oscar,x3176,oiyer@classicmodelcars.com,6,1006,Sales Rep
+1037,Taylor,Anna,x1437,ataylor@classicmodelcars.com,8,1006,Sales Rep
+1038,Weber,Jennifer,x6682,jweber@classicmodelcars.com,6,1006,Sales Rep
+1039,Williams,Ben,x1656,bwilliams@classicmodelcars.com,8,1006,Sales Rep
+1040,Costa,Omar,x4556,ocosta@classicmodelcars.com,6,1006,Sales Rep
+1041,White,Sakura,x5254,swhite@classicmodelcars.com,8,1006,Sales Rep
+1042,Harris,Rahul,x2696,rharris@classicmodelcars.com,6,1006,Sales Rep
+1043,Sharma,Bianca,x9645,bsharma@classicmodelcars.com,8,1006,Sales Rep
+1044,Brown,Sakura,x9247,sbrown@classicmodelcars.com,5,1007,Sales Rep
+1045,Anderson,Jean,x6740,janderson@classicmodelcars.com,5,1007,Sales Rep
+1046,Reyes,Ananya,x7223,areyes@classicmodelcars.com,5,1007,Sales Rep
+1047,Novak,Carlos,x8109,cnovak@classicmodelcars.com,5,1007,Sales Rep
